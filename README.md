@@ -7,5 +7,5 @@
   
   <h2> Técnologias usadas </h2>
   
-  <tr> HTML </tr>
-  <td> CSS </td>
+  <p> - HTML </p>
+  <p> - CSS </p>
